@@ -65,6 +65,21 @@ Type queries related to the supported CDPs. Type `exit` to quit.
 └── README.md               # Project documentation
 ```
 
+## Screenshots
+Here are some images showcasing the chatbot's functionality:
+
+1. **Starting UI**
+   ![Chat Page UI](Images/i1.png)
+
+2. **Handling CDP Queries**
+   ![CDP Queries](Images/i2.png)
+
+3. **Rejecting Irrelevant Questions**
+   ![Rejecting Irrelevant Questions](Images/i3.png)
+
+4. **Handling Lengthy Queries**
+   ![Lengthy Question Handling](Images/i4.png)
+
 ## How It Works
 1. **Document Ingestion**: Loads and splits CDP documentation into chunks.
 2. **Embedding Creation**: Uses Google Gemini AI to create vector embeddings.
