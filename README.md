@@ -12,7 +12,7 @@ CDP HelpDesk is a chatbot designed to assist users with questions related to fou
 
 ## Setup
 ### Prerequisites
-- Python 3.8+
+- Python 3.10+
 - Required libraries: `langchain`, `langchain-google-genai`, `langchain-community`, `streamlit`, `python-dotenv`, `faiss-cpu`
 - Google Gemini API key
 
